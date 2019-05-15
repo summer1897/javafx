@@ -1,0 +1,10 @@
+Austin,TX,32,51,96,51
+Boston,MA,33,52,97,52
+Dallas,TX,34,53,98,53
+Denver,CO,35,54,99,54
+EI Paso,TX,36,55,100,55
+Houston,TX,37,56,101,56
+Indianapollis,IN,102,56,96,57
+Jacksonville,FL,39,58,103,58
+Los Angeles,CA,40,59,104,59
+New Orleans,LA,41,60,105,60
